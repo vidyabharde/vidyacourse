@@ -15,7 +15,7 @@
 }
 
 #nav-list a:hover{
-	color: Blue;
+	color: Red;
 }
 #header{
 	text-align: center;
@@ -27,7 +27,7 @@
 
 .card{
 	background-color: #951C49;
-	color: grey;
+	color: Grey;
 	padding: 10px;
 	margin-bottom: 20px;
 }
